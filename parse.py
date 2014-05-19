@@ -1,5 +1,6 @@
 import csv 
 import json
+import re
 
 
 RAW_CSV = "data/SNAP_Vendor_List.csv"
@@ -16,7 +17,7 @@ def parse_csv(raw_csv, delimiter):
 	#skip the first row and assign to var. (b/c those are the field names)
 	fields = csv_data.next()
 
-	#create a list to hold dictionaries
+	#create list to hold dicts
 	parsed_data = []
 
 	#iterate over each row and extract the data for each row
@@ -25,15 +26,21 @@ def parse_csv(raw_csv, delimiter):
 	for row in csv_data:
 		parsed_data.append(dict(zip(fields, row)))
 
-	counter = 0
-	for i in parsed_data:
-		counter += 1
-	#print counter
 
-	#for row in parsed data:
+	counter = 0
+	for row in parsed_data:
+		counter += 1
 		#remove coords from address
+		address_with_coords = row["Address"]
+		#print address_with_coords
+
+		c = re.compile("\((.+)\)")
+		m = c.search(address_with_coords)
+		g = m.group(counter)
+		print g
 		#save coords to a variable
-		#add a new key/value to each row of coords
+		#coords = c
+		#add a new key/value coords pair to each row
 
 	#close the file
 	opened_file.close()
@@ -42,10 +49,10 @@ def parse_csv(raw_csv, delimiter):
 	return parsed_data
 
 def main():
-	d = parse_csv(RAW_CSV, ",")
-
-	with open("parsed_data.json", "w") as f:
-		f.write(json.dumps(d))
+	parse_csv(RAW_CSV, ",")
+	#d = parse_csv(RAW_CSV, ",")
+	#with open("parsed_data.json", "w") as f:
+		#f.write(json.dumps(d))
 
 if __name__ == "__main__":
     main()
