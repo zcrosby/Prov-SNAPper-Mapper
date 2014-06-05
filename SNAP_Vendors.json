@@ -1,2432 +1,1904 @@
-[
-    {
-        "Store Name": "7-ELEVEN 33506A",
-        "Code": "CG",
-        "coords": [
-            "41.82284384000047,-71.41126890899966"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "141 Weybosset St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Downtown Market",
-        "Code": "CS",
-        "coords": [
-            "41.82596805300045,-71.40971812699962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "2 KENNEDY PLAZA\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "BROADWAY EXPRESS MART",
-        "Code": "CS",
-        "coords": [
-            "41.820158182000455,-71.42777829899967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "306 Broadway\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WALGREENS 10099",
-        "Code": "CG",
-        "coords": [
-            "41.82378284200047,-71.42881944499965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "333 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Oasis Market",
-        "Code": "CS",
-        "coords": [
-            "41.81643811300046,-71.41901698999965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "220 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Regency Mart Inc",
-        "Code": "CS",
-        "coords": [
-            "41.821278373000496,-71.41732037899965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "3 Regency Plaza\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "O G Mart",
-        "Code": "CS",
-        "coords": [
-            "41.822886291000486,-71.41490800399964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "130 Washington St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Dugout Convenience Store III",
-        "Code": "CS",
-        "coords": [
-            "41.81606351100049,-71.41981829699967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "244 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Super Star Mini Mart",
-        "Code": "CS",
-        "coords": [
-            "41.82140743600047,-71.42270801899963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "163 Broadway\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "JW Market Inc",
-        "Code": "CS",
-        "coords": [
-            "41.8215295330005,-71.41284323499963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "187 Mathewson St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "AEW Market Inc",
-        "Code": "CS",
-        "coords": [
-            "41.821309665000456,-71.41492037499967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "385 Westminster St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Antonelli Poultry Inc",
-        "Code": "SP",
-        "coords": [
-            "41.824066909000464,-71.42687496299965"
-        ],
-        "Store Type": "Specialty",
-        "Address": "62 Depasquale Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  13",
-        "Code": "CG",
-        "coords": [
-            "41.82417546300047,-71.41220674099964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "70 Kennedy Plz\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-ELEVEN 33397-A",
-        "Code": "CG",
-        "coords": [
-            "41.8240863690005,-71.41220958099967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "10 Dorrance St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "COLBEA ENTERPRISES LLC",
-        "Code": "CS",
-        "coords": [
-            "41.81878224600047,-71.40018847499965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "457 Benefit St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "IOVINOS MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.82138954900046,-71.42535395199963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "73 Kenyon St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-ELEVEN #33406-A",
-        "Code": "CG",
-        "coords": [
-            "41.81560285800049,-71.42042878499967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "270 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WALMART 3301",
-        "Code": "GR",
-        "coords": [
-            "41.84556212500047,-71.41765504399967"
-        ],
-        "Store Type": "Grocery",
-        "Address": "51 Silver Spring St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAVE-A-LOT 827",
-        "Code": "GR",
-        "coords": [
-            "41.85351723800045,-71.42821440699964"
-        ],
-        "Store Type": "Grocery",
-        "Address": "700 Branch Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Borrellis Bakery",
-        "Code": "SP",
-        "coords": [
-            "41.8583429410005,-71.42146214499962"
-        ],
-        "Store Type": "Specialty",
-        "Address": "805 Charles St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WALGREENS 10256",
-        "Code": "CG",
-        "coords": [
-            "41.85153652100047,-71.40229321299967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1140 Main St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 2108",
-        "Code": "CG",
-        "coords": [
-            "41.85341819900049,-71.42784120799962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "678 Branch Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "A B Variety",
-        "Code": "CS",
-        "coords": [
-            "41.85193788100048,-71.42368074799964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "559 Branch Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Hess 39502",
-        "Code": "CG",
-        "coords": [
-            "41.85351105400048,-71.40087611499968"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1215 Main St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Hess 39209",
-        "Code": "CG",
-        "coords": [
-            "41.85810865900049,-71.41088257799964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "440 Smithfield Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Carcieri's Stop And Compare",
-        "Code": "CS",
-        "coords": [
-            "41.85121350100047,-71.42008503999966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "567 Charles St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Medina Meat Market Llc",
-        "Code": "SP",
-        "coords": [
-            "41.85131513200048,-71.44428184899965"
-        ],
-        "Store Type": "Specialty",
-        "Address": "838 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Caribe Mini Market, Llc",
-        "Code": "CS",
-        "coords": [
-            "41.853235645000495,-71.42038591799962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "615 Charles St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "STOP & SHOP  725",
-        "Code": "GR",
-        "coords": [
-            "41.84607950300045,-71.41317872799965"
-        ],
-        "Store Type": "Grocery",
-        "Address": "333 River St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "RITE AID 10247",
-        "Code": "CG",
-        "coords": [
-            "41.85304711900045,-71.40138413699964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1200 Main St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "FOODLAND FARMS",
-        "Code": "CS",
-        "coords": [
-            "41.85404015200049,-71.42057896199964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "638 Charles St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "NORTH MAIN SHELL",
-        "Code": "CG",
-        "coords": [
-            "41.83928283500046,-71.40896856699965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "691 Main St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rite Aid 10249",
-        "Code": "CG",
-        "coords": [
-            "41.850494091000485,-71.42050022899963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "456 Branch Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WHOLE FOODS MARKET 10111",
-        "Code": "GR",
-        "coords": [
-            "41.83718274800049,-71.40945311799965"
-        ],
-        "Store Type": "Grocery",
-        "Address": "601 Main St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "COLBEA ENTERPRISES LLC",
-        "Code": "UK",
-        "coords": [
-            "41.852144843000474,-71.42430045999964"
-        ],
-        "Store Type": "",
-        "Address": "598 Branch Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "COLBEA ENTERPRISES LLC",
-        "Code": "UK",
-        "coords": [
-            "41.84991940700047,-71.40304405799964"
-        ],
-        "Store Type": "",
-        "Address": "1075 Main St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-ELEVEN #33407-A",
-        "Code": "CG",
-        "coords": [
-            "41.850501360000465,-71.41996634599963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "549 Charles St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "TOOFS MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.8530097200005,-71.42034769699967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "611 Charles St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "EL BOMBAZO MARKET INC.",
-        "Code": "CS",
-        "coords": [
-            "41.79783827400047,-71.41420932999966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "981 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Dugout Convenience Store",
-        "Code": "CS",
-        "coords": [
-            "41.80372562100047,-71.41176578099964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "97 Burnside St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 2190",
-        "Code": "CG",
-        "coords": [
-            "41.79168108500045,-71.40650603699964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1280 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 6864",
-        "Code": "CG",
-        "coords": [
-            "41.786464572000455,-71.40205123899966"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1515 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Soares Fish Market",
-        "Code": "SP",
-        "coords": [
-            "41.789628620000485,-71.39614229799963"
-        ],
-        "Store Type": "Specialty",
-        "Address": "930 Narragansett Blvd\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Dugout Too Convenience Store",
-        "Code": "CS",
-        "coords": [
-            "41.79527131100048,-71.41039359299964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "692 Prairie Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "EL VECINO GROCERY STORE",
-        "Code": "CS",
-        "coords": [
-            "41.79677920400047,-71.41292351299967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1035 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Broad Market",
-        "Code": "CS",
-        "coords": [
-            "41.78991330800045,-71.40496194799965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1361 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Charles Variety",
-        "Code": "CS",
-        "coords": [
-            "41.78958709300048,-71.40293441999967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1308 Eddy St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "New Stop Food Market 2",
-        "Code": "CS",
-        "coords": [
-            "41.79242299200047,-71.40743161699965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1258 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Cibao Mini Market",
-        "Code": "CS",
-        "coords": [
-            "41.80173829200049,-71.41315494299965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "456 Prairie Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CRESPO GROCERY",
-        "Code": "CS",
-        "coords": [
-            "41.7951633080005,-71.41093710399963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1115 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Vida Sana Natural Health Food LLC",
-        "Code": "UK",
-        "coords": [
-            "41.78994524600046,-71.40498969199967"
-        ],
-        "Store Type": "",
-        "Address": "1359 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "El Fogonazo Market",
-        "Code": "CS",
-        "coords": [
-            "41.796058341000446,-71.41202340099966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1059 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Save More",
-        "Code": "UK",
-        "coords": [
-            "41.80272855700048,-71.41366023099965"
-        ],
-        "Store Type": "",
-        "Address": "421 Prairie Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Convenience Grocery Store",
-        "Code": "CS",
-        "coords": [
-            "41.799931234000496,-71.41238327299965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "512 Prairie Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "NUNEZ FRUIT MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.787974043000474,-71.40333184799965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1437 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CUMBERLAND FARMS  1210",
-        "Code": "CG",
-        "coords": [
-            "41.791405873000485,-71.40627289299965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1297 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Thurbers Avenue Services Inc",
-        "Code": "CG",
-        "coords": [
-            "41.799353263000455,-71.40570589499964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1025 Eddy St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "GALLUP MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.799746936000474,-71.41378421799965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "160 Gallup St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  4796",
-        "Code": "CG",
-        "coords": [
-            "41.79829089600048,-71.41468978699965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "960 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "PORTUGUESE AMERICAN MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.79114492500048,-71.39664065499966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "896 Allens Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "V&J DELI & GROCERY",
-        "Code": "CS",
-        "coords": [
-            "41.8067102280005,-71.40979232999968"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "272 Public St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "GOMEZ MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.78759612100049,-71.40301596299963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1459 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "HARBOR SHELL FOOD MART",
-        "Code": "CG",
-        "coords": [
-            "41.78586011200048,-71.39494080899965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1020 Narragansett Blvd\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "NEW SHOP & GO",
-        "Code": "CS",
-        "coords": [
-            "41.830770317000486,-71.34731006399966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "97 Hope St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS Pharmacy  827",
-        "Code": "CG",
-        "coords": [
-            "41.829953170000465,-71.40082934099962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "291 Thayer St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Eastside Mart",
-        "Code": "CS",
-        "coords": [
-            "41.83425948100046,-71.39055494399963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "422 Lloyd Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Your Corner Store",
-        "Code": "CS",
-        "coords": [
-            "41.838839056000495,-71.40408506299963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "110 Doyle Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Camp Street Market",
-        "Code": "CS",
-        "coords": [
-            "41.84221929300048,-71.40279485099967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "149 Camp St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SILVER STAR BAKERY",
-        "Code": "SP",
-        "coords": [
-            "41.82244664800049,-71.39212377599966"
-        ],
-        "Store Type": "Specialty",
-        "Address": "150 Ives St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "TALHO & CARNICARIA CENTRAL MEAT M",
-        "Code": "SP",
-        "coords": [
-            "41.82226161700049,-71.38981835699963"
-        ],
-        "Store Type": "Specialty",
-        "Address": "113 Gano St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "EAST SIDE PRESCRIPTION CENTER INC",
-        "Code": "CS",
-        "coords": [
-            "41.84382510900048,-71.39760259499963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "632 Hope St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CUMBERLAND FARMS  1280",
-        "Code": "CG",
-        "coords": [
-            "41.84701852000046,-71.39595080399965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "751 Hope St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  1294",
-        "Code": "CG",
-        "coords": [
-            "41.83005534400047,-71.38841387999963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "481 Angell St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  729",
-        "Code": "CG",
-        "coords": [
-            "41.84881026000045,-71.39508909999967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "799 Hope St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "GANO MART",
-        "Code": "CS",
-        "coords": [
-            "41.82371377600049,-71.39003657799964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "149 Gano St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "EAGLE SUPER MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.82144106900046,-71.39192615599967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "117 Ives St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rite Aid 10251",
-        "Code": "CG",
-        "coords": [
-            "41.82676971300049,-71.38757787499964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "135 Pitman St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "EAST SIDE MINI MART",
-        "Code": "CS",
-        "coords": [
-            "41.82371134200048,-71.39884395499962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "252 Brook St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "EASTSIDE MARKETPLACE",
-        "Code": "GR",
-        "coords": [
-            "41.82678134700046,-71.38675856599963"
-        ],
-        "Store Type": "Grocery",
-        "Address": "165 Pitman St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WHOLE FOODS MARKET 10014",
-        "Code": "GR",
-        "coords": [
-            "41.82809489800047,-71.38569601999967"
-        ],
-        "Store Type": "Grocery",
-        "Address": "261 Waterman St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "FARAFINA",
-        "Code": "CS",
-        "coords": [
-            "41.80490633800048,-71.43727746599967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "845 Potters Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CRANSTON VARIETY STORE",
-        "Code": "CS",
-        "coords": [
-            "41.81285140900047,-71.42906952699963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "306 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "LA GIGANTE MEAT MARKET INC",
-        "Code": "SP",
-        "coords": [
-            "41.81144555900045,-71.42302625399964"
-        ],
-        "Store Type": "Specialty",
-        "Address": "49 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SANCHEZ MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.80566897600045,-71.41970517799967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "676 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "VILLAGE MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.81411432600049,-71.42661055899964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "208 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Gemma's Market",
-        "Code": "CS",
-        "coords": [
-            "41.810507836000454,-71.43253388999966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "458 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Mi Quesqueya Meat Market",
-        "Code": "SP",
-        "coords": [
-            "41.79893078200047,-71.41561840399964"
-        ],
-        "Store Type": "Specialty",
-        "Address": "933 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Melissa Market",
-        "Code": "CS",
-        "coords": [
-            "41.80305292200046,-71.43218773399963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "680 Potters Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Gulf Express",
-        "Code": "CG",
-        "coords": [
-            "41.78970625800048,-71.42953551999966"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "255 Reservoir Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Pacific Seafood Market",
-        "Code": "SP",
-        "coords": [
-            "41.79003914100048,-71.42921807699963"
-        ],
-        "Store Type": "Specialty",
-        "Address": "247 Reservoir Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "H & M Discount Store",
-        "Code": "CS",
-        "coords": [
-            "41.80397813900049,-71.41916319999967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "736 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Corner Store",
-        "Code": "CS",
-        "coords": [
-            "41.80925627500045,-71.42089921699966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "549B Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "D & C MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.804823549000446,-71.42532769199966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "290 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Home Plate Market",
-        "Code": "CS",
-        "coords": [
-            "41.813405161000446,-71.41676878199962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "247 Lockwood St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Public Street Market",
-        "Code": "CS",
-        "coords": [
-            "41.80514172000045,-71.41653934699963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "454 Public St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Star Market",
-        "Code": "CS",
-        "coords": [
-            "41.814027919000466,-71.42132996499964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "334 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Los Compadres Market LLC",
-        "Code": "CS",
-        "coords": [
-            "41.810880771000484,-71.36680092099965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "93 Laura St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "V Mart LLC",
-        "Code": "CG",
-        "coords": [
-            "41.7887259740005,-71.42353278999963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "176 Narragansett Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Elmwood Deluxe Mart Inc",
-        "Code": "CS",
-        "coords": [
-            "41.79541620200047,-71.42471176599963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "610A Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "624 Cranston Meat Market Inc",
-        "Code": "CS",
-        "coords": [
-            "41.80674962600045,-71.43590048799967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "624 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "City Gas",
-        "Code": "CG",
-        "coords": [
-            "41.80580247100045,-71.42513118799963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "253 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Dima Mini Mart",
-        "Code": "CS",
-        "coords": [
-            "41.81188179300045,-71.42272731299965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "29B Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Ebc Market",
-        "Code": "CS",
-        "coords": [
-            "41.81251367300047,-71.41957027199965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "465 Pine St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Quality Meats And Deli",
-        "Code": "CS",
-        "coords": [
-            "41.80825283000047,-71.42059096199966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "583 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Ma Esther Enterprise",
-        "Code": "CS",
-        "coords": [
-            "41.804591609000454,-71.43832704999966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "739 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Daves Convenience Inc",
-        "Code": "CS",
-        "coords": [
-            "41.80892091700048,-71.42453452699965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "150B Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Ocean State Job Lot 109",
-        "Code": "CG",
-        "coords": [
-            "41.78813122300045,-71.43169282799965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "361 Reservoir Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Emely Party Store & Bakery LLC",
-        "Code": "SP",
-        "coords": [
-            "41.80875262100045,-71.42067490899967"
-        ],
-        "Store Type": "Specialty",
-        "Address": "568 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "S S International Meat and Groceries LLC",
-        "Code": "CS",
-        "coords": [
-            "41.80569797300046,-71.43689997399963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "676 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Providence City Convenience & Deli",
-        "Code": "CS",
-        "coords": [
-            "41.81453917100049,-71.42106157299963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "312 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Shabo Inc  DBA/ 7 Eleven (33413B) 33413B",
-        "Code": "CG",
-        "coords": [
-            "41.80340345100046,-71.43999664799964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "775 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Elmwood Avenue Shell",
-        "Code": "CG",
-        "coords": [
-            "41.81250762600047,-71.42231282799963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "5 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Explosion Market",
-        "Code": "CS",
-        "coords": [
-            "41.80967566100048,-71.42822693099964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "248 Dexter St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-Eleven 33413J",
-        "Code": "CG",
-        "coords": [
-            "41.80340345100046,-71.43999664799964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "775 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "PROVIDENCE MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.803369585000496,-71.41904236899967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "757 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "MEKONG MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.81450235700049,-71.42108048399967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "314 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rite Aid 10252",
-        "Code": "CG",
-        "coords": [
-            "41.8046345030005,-71.41944842199968"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "711 BROAD STREET\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "TENARES SUPERMARKET, INC",
-        "Code": "CS",
-        "coords": [
-            "41.80986936400046,-71.43318834099966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "484 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SUNNY MARKET PLACE",
-        "Code": "CS",
-        "coords": [
-            "41.79013340500046,-71.42914081199967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "243 Reservoir Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WALGREENS 04145",
-        "Code": "CG",
-        "coords": [
-            "41.79772739000049,-71.42606267099967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "533 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "JAMAL & JAMEL VARIETY STORE",
-        "Code": "CS",
-        "coords": [
-            "41.80439427900046,-71.43845253799964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "750 CRANSTON ST\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "ELMWOOD FOOD MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.80284359300049,-71.42588472499966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "342 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAVERS MART II 2",
-        "Code": "CS",
-        "coords": [
-            "41.78888109000047,-71.42116938299966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "871 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "STOP MARKET AND ASSOCIATES",
-        "Code": "CS",
-        "coords": [
-            "41.812829284000486,-71.42911254699965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "308 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CRANSTON FOOD CENTER, INC.",
-        "Code": "CS",
-        "coords": [
-            "41.80825092900045,-71.43458463099967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "560 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "ASIAN STAR MARKET, INC.",
-        "Code": "CS",
-        "coords": [
-            "41.793639105000466,-71.42372215799963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "678 Elmwood Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Reyes Food Market",
-        "Code": "CS",
-        "coords": [
-            "41.8052503240005,-71.43756490899966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "701 Cranston St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Compare Foods",
-        "Code": "GR",
-        "coords": [
-            "41.80037926300048,-71.41741226199963"
-        ],
-        "Store Type": "Grocery",
-        "Address": "863 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "TAN'S NEW ASIAN MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.81400980100045,-71.42141911399966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "339 Broad St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CHRISTINA MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.836137617000475,-71.42806577599964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "524 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "RIVER AVE B & M FOOD MART",
-        "Code": "CS",
-        "coords": [
-            "41.83214460700049,-71.43824241699963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "168 River Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "GIO'S MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.83547780800046,-71.42480877599962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "537 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CARLITOS MARKET INC",
-        "Code": "CS",
-        "coords": [
-            "41.83568530800045,-71.42245158199967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "35 Candace St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-ELEVEN 29112G",
-        "Code": "CG",
-        "coords": [
-            "41.835484402000475,-71.42633834599962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "460 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Kevin Food Market",
-        "Code": "CS",
-        "coords": [
-            "41.82749493600045,-71.44370385499963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "103 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Antillas Supermarket #4",
-        "Code": "CS",
-        "coords": [
-            "41.8372679200005,-71.42257698599963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "194 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Crugnale Bakery",
-        "Code": "SP",
-        "coords": [
-            "41.825275468000484,-71.43978324099965"
-        ],
-        "Store Type": "Specialty",
-        "Address": "11 Newark St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "PriceRite 371",
-        "Code": "CG",
-        "coords": [
-            "41.82603751100049,-71.43880304899966"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "325 Valley St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "221 Academy Ave Meat Market",
-        "Code": "CS",
-        "coords": [
-            "41.830732584000486,-71.44422792499967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "221 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Sunrise Market",
-        "Code": "CS",
-        "coords": [
-            "41.846098991000474,-71.45189039899964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1222 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "St Francis D Assisi Convenience",
-        "Code": "CS",
-        "coords": [
-            "41.826994769000464,-71.44370174099964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "84 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 2868",
-        "Code": "CG",
-        "coords": [
-            "41.83228281400045,-71.44199058399965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1030 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Del Rosario Mini Market",
-        "Code": "CS",
-        "coords": [
-            "41.8342975650005,-71.42993627599964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "693 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Aldi 41",
-        "Code": "GR",
-        "coords": [
-            "41.8361930850005,-71.42875665799966"
-        ],
-        "Store Type": "Grocery",
-        "Address": "539 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "GI JOE'S VARIETY",
-        "Code": "CS",
-        "coords": [
-            "41.83536954500045,-71.42590528599965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "445 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Camden Mini Market",
-        "Code": "CS",
-        "coords": [
-            "41.83902465900047,-71.42670175699965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "135 Camden Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "LaSalle Bakery Inc",
-        "Code": "SP",
-        "coords": [
-            "41.84944397300046,-71.43939506899966"
-        ],
-        "Store Type": "Specialty",
-        "Address": "685 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Fruit Hill Farmers Market",
-        "Code": "FM",
-        "coords": [
-            "ParkingLot"
-        ],
-        "Store Type": "Farmers' Market",
-        "Address": "Fruit Hill Ave  Providence, RI\n(41.823870669000485, -71.41199051099966)"
-    },
-    {
-        "Store Name": "Stop & Go",
-        "Code": "CS",
-        "coords": [
-            "41.850358748000474,-71.43398426199963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "776 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "College Convenience Mart",
-        "Code": "CS",
-        "coords": [
-            "41.84914404800048,-71.43881004599967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "664 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Sikay Lao Thai Market",
-        "Code": "CS",
-        "coords": [
-            "41.83250943100046,-71.43882607799964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "952 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Khout Gas",
-        "Code": "CG",
-        "coords": [
-            "41.83118152200046,-71.42890715299967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "691 Valley St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 8177",
-        "Code": "CG",
-        "coords": [
-            "41.8361865870005,-71.42885293999967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "541 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "El Pulgarcito Grocery Convenience Store",
-        "Code": "CS",
-        "coords": [
-            "41.828188713000486,-71.44389173399964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "128 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Davis Park Farmers Market",
-        "Code": "FM",
-        "coords": [
-            "41.83612060600046,-71.41218617999965"
-        ],
-        "Store Type": "Farmers' Market",
-        "Address": "Chalkstone Ave Providence, RI\n"
-    },
-    {
-        "Store Name": "Los Mina Market",
-        "Code": "CS",
-        "coords": [
-            "41.82965086100046,-71.43870479899965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "100 Harold St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "City Stop Inc",
-        "Code": "CS",
-        "coords": [
-            "41.78490026100047,-71.39893000999967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "316 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "P-Town Market",
-        "Code": "CS",
-        "coords": [
-            "41.84148388900047,-71.42247424199962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "288 Chad Brown St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Milanos Pizza/Olives Deli",
-        "Code": "CS",
-        "coords": [
-            "41.83742858700049,-71.43306014999962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "659 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-Eleven 27668L",
-        "Code": "CG",
-        "coords": [
-            "41.84087509300048,-71.42720095699963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "391 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "The Ampak DBA Tri & Tri States Enterprises Inc",
-        "Code": "CG",
-        "coords": [
-            "41.84411640400049,-71.42365854699966"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "222 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rite Price Market",
-        "Code": "CS",
-        "coords": [
-            "41.8353174450005,-71.41771276799966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "43 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Douglas Food Mart",
-        "Code": "CS",
-        "coords": [
-            "41.83697630400047,-71.42171773899963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "175 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "La Poblanita Market",
-        "Code": "CS",
-        "coords": [
-            "41.83213544500046,-71.44445252499963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "273 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Morenos Meat Market 1",
-        "Code": "CS",
-        "coords": [
-            "41.83513680200048,-71.42588023999963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "580 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Chalkstone Mini Mart & Deli",
-        "Code": "CS",
-        "coords": [
-            "41.83291144800046,-71.43761793499965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "920 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Capital Gulf",
-        "Code": "CG",
-        "coords": [
-            "41.832297335000476,-71.41812425499967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "201 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "A Touch Of Merengue LLC - The Atom",
-        "Code": "UK",
-        "coords": [
-            "41.82590685600047,-71.44346013599966"
-        ],
-        "Store Type": "",
-        "Address": "47 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Envios Luna Multiservice LLC",
-        "Code": "UK",
-        "coords": [
-            "41.84615408900049,-71.42925100199966"
-        ],
-        "Store Type": "",
-        "Address": "389 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Chalkstone Supermarket Inc",
-        "Code": "CS",
-        "coords": [
-            "41.83229771100048,-71.44275623599964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1050 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Admiral Mart Inc",
-        "Code": "CS",
-        "coords": [
-            "41.848944522000465,-71.43817594499967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "649 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Douglas Street Family Mart LLC",
-        "Code": "CS",
-        "coords": [
-            "41.85325677600048,-71.43780400199967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "929 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Fruit Hill Farmers Market",
-        "Code": "FM",
-        "coords": [
-            "41.84270721100046,-71.45298120799964"
-        ],
-        "Store Type": "Farmers' Market",
-        "Address": "600 Mount Pleasant Avenue\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAL'S BAKERY",
-        "Code": "SP",
-        "coords": [
-            "41.832523076000484,-71.45147580099967"
-        ],
-        "Store Type": "Specialty",
-        "Address": "1288 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "MARIO'S BAKERY",
-        "Code": "SP",
-        "coords": [
-            "41.84833167500045,-71.43167668799964"
-        ],
-        "Store Type": "Specialty",
-        "Address": "684 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WALGREENS  03204",
-        "Code": "CG",
-        "coords": [
-            "41.832916785000464,-71.44442976799962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "295 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "LASALLE BAKERY",
-        "Code": "SP",
-        "coords": [
-            "41.842341544000476,-71.44442442599967"
-        ],
-        "Store Type": "Specialty",
-        "Address": "993 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rite Aid 10253",
-        "Code": "CG",
-        "coords": [
-            "41.83033768000047,-71.44423923999966"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "200 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WALGREENS  03703",
-        "Code": "CG",
-        "coords": [
-            "41.8458349980005,-71.42797913999965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "354 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "A & B  CONVENIENCE & DELI",
-        "Code": "CS",
-        "coords": [
-            "41.83270400600048,-71.44995562299965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1245 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "ACADEMY FARMS",
-        "Code": "CS",
-        "coords": [
-            "41.83921644200046,-71.44491238899963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "524 Academy Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "ORIENTAL PLAZA INC.,",
-        "Code": "SP",
-        "coords": [
-            "41.83455405300049,-71.42388159899963"
-        ],
-        "Store Type": "Specialty",
-        "Address": "373 Smith St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  856",
-        "Code": "CG",
-        "coords": [
-            "41.84616719900049,-71.42966580999962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "400 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "ATWELLS SHELL",
-        "Code": "CG",
-        "coords": [
-            "41.824917789000494,-71.43942656499962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "286 Valley St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "BUS STOP MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.84974936500049,-71.44030246199964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "712 Admiral St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Tienda Y Panaderia El Quiche LLC",
-        "Code": "CS",
-        "coords": [
-            "41.83232493000048,-71.44366127399962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1076 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "PC MART & GAS",
-        "Code": "CG",
-        "coords": [
-            "41.841703435000454,-71.42750896699965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "408 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "HAWKINS MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.848408486000494,-71.42595540699966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "103 Hawkins St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "BROTHER'S MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.8463688920005,-71.42939863599963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "600 Douglas Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAM'S FOOD STORE 1033",
-        "Code": "CS",
-        "coords": [
-            "41.832325753000475,-71.45360233399964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1348 Chalkstone Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "BR MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.82370138100049,-71.45159195699966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "352 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WELCOME FOOD MART FOOD & SMOKE SHOP",
-        "Code": "CS",
-        "coords": [
-            "41.825361313000485,-71.45364882399963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1081 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "DOLLAR TREE 1733",
-        "Code": "CG",
-        "coords": [
-            "41.81986190600048,-71.46884840499962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "377 Killingly St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SIME MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.8204822830005,-71.44444728499963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "70 Appleton St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "JUNIOR MINI MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.80705664800047,-71.45660676599965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "294 Pocasset Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAMS FOOD STORE",
-        "Code": "CS",
-        "coords": [
-            "41.8167757490005,-71.44415755499966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "28 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Hess Express 39213",
-        "Code": "CG",
-        "coords": [
-            "41.82534071100048,-71.45459796899962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "442 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Espinal Grocery",
-        "Code": "CS",
-        "coords": [
-            "41.82499411700047,-71.44630394199964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "875 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Guatepan Bakery",
-        "Code": "SP",
-        "coords": [
-            "41.81850564700045,-71.44524757899967"
-        ],
-        "Store Type": "Specialty",
-        "Address": "95 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Friendship Market",
-        "Code": "CS",
-        "coords": [
-            "41.810252549000495,-71.43518269399965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "187 Messer St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rodriguez Meat Market",
-        "Code": "CS",
-        "coords": [
-            "41.818229877000476,-71.45685306299964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "400 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Rockys Market",
-        "Code": "CS",
-        "coords": [
-            "41.815278081000486,-71.43688805599965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "19 Messer St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "La Gran Via",
-        "Code": "CS",
-        "coords": [
-            "41.81842517000047,-71.45758201099966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "417 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Fernandez Market",
-        "Code": "CS",
-        "coords": [
-            "41.81347294700049,-71.45364145299965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "455 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Broadway Mart",
-        "Code": "CS",
-        "coords": [
-            "41.81902586500047,-71.43281079099967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "447 Broadway\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Walgreens 11147",
-        "Code": "CG",
-        "coords": [
-            "41.81367837400046,-71.44806370199967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "1 Pocasset Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 2020",
-        "Code": "CG",
-        "coords": [
-            "41.81915417500045,-71.46267052799965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "550 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Plainfield Meat Market",
-        "Code": "CS",
-        "coords": [
-            "41.81265738900049,-71.45887326399964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "600 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "A & E CONVENIENCE STORE",
-        "Code": "CS",
-        "coords": [
-            "41.8253171880005,-71.45408616099962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1119 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Mateo Market LLC",
-        "Code": "CS",
-        "coords": [
-            "41.81098277600046,-71.44751392999967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "3 Priscilla Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "La Perla Fruit-Meat Market",
-        "Code": "CS",
-        "coords": [
-            "41.81618311700049,-71.43503962899968"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1543 Westminster St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Hudson Street Delicatessen",
-        "Code": "CS",
-        "coords": [
-            "41.813195814000494,-71.43464481999968"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "68 Hudson St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Plainfield Market Place",
-        "Code": "CS",
-        "coords": [
-            "41.813677045000475,-71.45045630099963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "370 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Miami Mart Inc",
-        "Code": "CS",
-        "coords": [
-            "41.82510117300046,-71.44849585399965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "935 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Anthony Grocery Store",
-        "Code": "CS",
-        "coords": [
-            "41.82510612900046,-71.44958536099966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "964A Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SP Varieties Inc",
-        "Code": "CS",
-        "coords": [
-            "41.818628771000476,-71.45885736199966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "451 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Station One",
-        "Code": "CS",
-        "coords": [
-            "41.82593526500045,-71.45801762299965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "524 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Jacobos Market",
-        "Code": "CS",
-        "coords": [
-            "41.81387033700048,-71.43640717799963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "75 Messer St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Diana Market",
-        "Code": "CS",
-        "coords": [
-            "41.82167180100049,-71.43099619899965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "115 Knight St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Westminster Market Inc",
-        "Code": "CS",
-        "coords": [
-            "41.81698646600046,-71.42827873299967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1181 Westminster St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Hartford Convenience",
-        "Code": "CS",
-        "coords": [
-            "41.81782395400046,-71.45478099699966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "344 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "E Z Food Mart",
-        "Code": "CS",
-        "coords": [
-            "41.818858014000455,-71.46044145999963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "501 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Sams Food Store",
-        "Code": "CS",
-        "coords": [
-            "41.83326468200045,-71.46979284399964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "983 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "International Express Market",
-        "Code": "CS",
-        "coords": [
-            "41.807943056000454,-71.44810268099963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "243B Webster Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Shop And Go Food Market",
-        "Code": "CS",
-        "coords": [
-            "41.80782034300046,-71.44377239399967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "216 Union Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Julian Market",
-        "Code": "CS",
-        "coords": [
-            "41.82186762900045,-71.44504456799967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "100 Julian St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "People Helping People Variety Store",
-        "Code": "CS",
-        "coords": [
-            "41.81366391500046,-71.45154609399964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "403 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Family Dollar 8896",
-        "Code": "CG",
-        "coords": [
-            "41.83396633700045,-71.46754635999963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "921 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Las Delicias Bakery",
-        "Code": "SP",
-        "coords": [
-            "41.82510612900046,-71.44958536099966"
-        ],
-        "Store Type": "Specialty",
-        "Address": "964B Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Fertile Underground Grocery",
-        "Code": "GR",
-        "coords": [
-            "41.81608630900047,-71.43576591099963"
-        ],
-        "Store Type": "Grocery",
-        "Address": "1577 Westminster St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "El Encanto Market Inc",
-        "Code": "CS",
-        "coords": [
-            "41.81320013800047,-71.45551935099962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "508 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "La Guira Meat Market Inc",
-        "Code": "CS",
-        "coords": [
-            "41.819008460000475,-71.46135118499967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "531 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "280, Llc",
-        "Code": "CG",
-        "coords": [
-            "41.81398378200049,-71.44759918699964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "280 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Nathalie Enterprise Llc",
-        "Code": "CS",
-        "coords": [
-            "41.81285661600049,-71.45774402199964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "574 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Yaneth Enterprise Llc",
-        "Code": "CS",
-        "coords": [
-            "41.8098319610005,-71.45467157399963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "196 Pocasset Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "J & M Convenience Store",
-        "Code": "CS",
-        "coords": [
-            "41.8111027490005,-71.46198094799962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "718 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Honeys Market",
-        "Code": "CS",
-        "coords": [
-            "41.812057438000465,-71.44702132099962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "49 Bancroft St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Grassos Olenyville Gulf",
-        "Code": "CG",
-        "coords": [
-            "41.81647426000046,-71.44429906799962"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "35 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "J J Market",
-        "Code": "CS",
-        "coords": [
-            "41.80796467100049,-71.45605114799963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "261 Pocasset Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Neutaconkanut Farmers Market",
-        "Code": "FM",
-        "coords": [
-            "41.81011750500045,-71.46239791199963"
-        ],
-        "Store Type": "Farmers' Market",
-        "Address": "760 Plainfield St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "RI Market",
-        "Code": "CS",
-        "coords": [
-            "41.82297243800048,-71.45050210799963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "315 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Manton Mini Mart",
-        "Code": "CS",
-        "coords": [
-            "41.826910427000485,-71.46067522999965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "600 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Baron Market LLC",
-        "Code": "CS",
-        "coords": [
-            "41.859484076000456,-71.45081597099966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "77 Union Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Mana Market LLC",
-        "Code": "CS",
-        "coords": [
-            "41.8254615460005,-71.45503413299963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "457 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Cibao Meat Supermarket LLC",
-        "Code": "CS",
-        "coords": [
-            "41.82117451500045,-71.44814061799963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "228 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Tiger Plus LLC",
-        "Code": "CG",
-        "coords": [
-            "41.82353756800046,-71.45137154099967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "342 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Broadway Farmers Market",
-        "Code": "FM",
-        "coords": [
-            "41.81801932600047,-71.43205796999968"
-        ],
-        "Store Type": "Farmers' Market",
-        "Address": "35 Marshall St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "STOP & SHOP 722",
-        "Code": "GR",
-        "coords": [
-            "41.83300898600049,-71.46489006899964"
-        ],
-        "Store Type": "Grocery",
-        "Address": "850 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAVE-A-LOT 823",
-        "Code": "GR",
-        "coords": [
-            "41.82017164400048,-71.46902512099967"
-        ],
-        "Store Type": "Grocery",
-        "Address": "405 Killingly St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "MORENO MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.80729157200045,-71.43810114299964"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "227 Waldo St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  994",
-        "Code": "CG",
-        "coords": [
-            "41.81245000100046,-71.45024936099963"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "131 Webster Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "LA PLACITA",
-        "Code": "CS",
-        "coords": [
-            "41.82159817200045,-71.43406615299966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "165 Almy St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "LA ESQUINA MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.806983854000464,-71.44757843199966"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "274 Webster Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS PHARMACY  2417",
-        "Code": "CG",
-        "coords": [
-            "41.83386782200046,-71.46811510199967"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "935 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "El Primo Fruit Market",
-        "Code": "CS",
-        "coords": [
-            "41.82085863700047,-71.44773500599968"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "212 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "WEBSTER MEAT MARKET, INC.",
-        "Code": "CS",
-        "coords": [
-            "41.80780627600046,-71.44803722299963"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "249 Webster Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "JOANNA MARKET INC",
-        "Code": "CS",
-        "coords": [
-            "41.8118730700005,-71.43829653099965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "172 Chapin Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "GUATEMALA BAKERY",
-        "Code": "SP",
-        "coords": [
-            "41.8075806380005,-71.44490795599967"
-        ],
-        "Store Type": "Specialty",
-        "Address": "241 Union Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-ELEVEN 33338-A",
-        "Code": "CG",
-        "coords": [
-            "41.82443442300047,-71.43532041899965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "548 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "7-ELEVEN #33426-A",
-        "Code": "CG",
-        "coords": [
-            "41.81805634800048,-71.44466450099964"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "65 Manton Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SAMIES FOOD & SMOKE SHOP",
-        "Code": "CS",
-        "coords": [
-            "41.81241732500047,-71.44943823599965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "50 Pocasset Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "MAYA BAKERY",
-        "Code": "SP",
-        "coords": [
-            "41.81990253400045,-71.44040143199965"
-        ],
-        "Store Type": "Specialty",
-        "Address": "113 Valley St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "FELITO FOOD MARKET INC",
-        "Code": "CS",
-        "coords": [
-            "41.80763809000047,-71.44446642599962"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "230 Union Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "FAMILY MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.823523569000486,-71.44394810099965"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "110 Putnam St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SANCHEZ MEXICAN MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.8247830140005,-71.44346543999967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "802 Atwells Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "Lupitas Market",
-        "Code": "CS",
-        "coords": [
-            "41.813415113000474,-71.44826160099967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "18 Pocasset Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "JOES MEAT MARKET",
-        "Code": "CS",
-        "coords": [
-            "41.816653586000484,-71.43114780599967"
-        ],
-        "Store Type": "Corner Store",
-        "Address": "1337 Westminster St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "PANADERIA EL QUETZAL",
-        "Code": "SP",
-        "coords": [
-            "41.81857457700045,-71.45850939299964"
-        ],
-        "Store Type": "Specialty",
-        "Address": "445 Hartford Ave\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "SILVER LAKE SAUSAGE SHOP",
-        "Code": "SP",
-        "coords": [
-            "41.80801727700049,-71.45893871799967"
-        ],
-        "Store Type": "Specialty",
-        "Address": "80 Ethan St\nProvidence, RI\n"
-    },
-    {
-        "Store Name": "CVS Pharmacy  2049",
-        "Code": "CG",
-        "coords": [
-            "41.829196384000454,-71.41531283699965"
-        ],
-        "Store Type": "Chain Store or Gas Station",
-        "Address": "100 Francis St\nProvidence, RI\n"
-    }
-]
+{
+    "": [
+        {
+            "Store Name": "COLBEA ENTERPRISES LLC",
+            "Coordinates": [
+                "41.852144843000474,-71.42430045999964"
+            ],
+            "Address": "598 Branch Ave Providence, RI "
+        },
+        {
+            "Store Name": "COLBEA ENTERPRISES LLC",
+            "Coordinates": [
+                "41.84991940700047,-71.40304405799964"
+            ],
+            "Address": "1075 Main St Providence, RI "
+        },
+        {
+            "Store Name": "Vida Sana Natural Health Food LLC",
+            "Coordinates": [
+                "41.78994524600046,-71.40498969199967"
+            ],
+            "Address": "1359 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Save More",
+            "Coordinates": [
+                "41.80272855700048,-71.41366023099965"
+            ],
+            "Address": "421 Prairie Ave Providence, RI "
+        },
+        {
+            "Store Name": "A Touch Of Merengue LLC - The Atom",
+            "Coordinates": [
+                "41.82590685600047,-71.44346013599966"
+            ],
+            "Address": "47 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Envios Luna Multiservice LLC",
+            "Coordinates": [
+                "41.84615408900049,-71.42925100199966"
+            ],
+            "Address": "389 Admiral St Providence, RI "
+        }
+    ],
+    "Chain Store or Gas Station": [
+        {
+            "Store Name": "7-ELEVEN 33506A",
+            "Coordinates": [
+                "41.82284384000047,-71.41126890899966"
+            ],
+            "Address": "141 Weybosset St Providence, RI "
+        },
+        {
+            "Store Name": "WALGREENS 10099",
+            "Coordinates": [
+                "41.82378284200047,-71.42881944499965"
+            ],
+            "Address": "333 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  13",
+            "Coordinates": [
+                "41.82417546300047,-71.41220674099964"
+            ],
+            "Address": "70 Kennedy Plz Providence, RI "
+        },
+        {
+            "Store Name": "7-ELEVEN 33397-A",
+            "Coordinates": [
+                "41.8240863690005,-71.41220958099967"
+            ],
+            "Address": "10 Dorrance St Providence, RI "
+        },
+        {
+            "Store Name": "7-ELEVEN #33406-A",
+            "Coordinates": [
+                "41.81560285800049,-71.42042878499967"
+            ],
+            "Address": "270 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "WALGREENS 10256",
+            "Coordinates": [
+                "41.85153652100047,-71.40229321299967"
+            ],
+            "Address": "1140 Main St Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 2108",
+            "Coordinates": [
+                "41.85341819900049,-71.42784120799962"
+            ],
+            "Address": "678 Branch Ave Providence, RI "
+        },
+        {
+            "Store Name": "Hess 39502",
+            "Coordinates": [
+                "41.85351105400048,-71.40087611499968"
+            ],
+            "Address": "1215 Main St Providence, RI "
+        },
+        {
+            "Store Name": "Hess 39209",
+            "Coordinates": [
+                "41.85810865900049,-71.41088257799964"
+            ],
+            "Address": "440 Smithfield Ave Providence, RI "
+        },
+        {
+            "Store Name": "RITE AID 10247",
+            "Coordinates": [
+                "41.85304711900045,-71.40138413699964"
+            ],
+            "Address": "1200 Main St Providence, RI "
+        },
+        {
+            "Store Name": "NORTH MAIN SHELL",
+            "Coordinates": [
+                "41.83928283500046,-71.40896856699965"
+            ],
+            "Address": "691 Main St Providence, RI "
+        },
+        {
+            "Store Name": "Rite Aid 10249",
+            "Coordinates": [
+                "41.850494091000485,-71.42050022899963"
+            ],
+            "Address": "456 Branch Ave Providence, RI "
+        },
+        {
+            "Store Name": "7-ELEVEN #33407-A",
+            "Coordinates": [
+                "41.850501360000465,-71.41996634599963"
+            ],
+            "Address": "549 Charles St Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 2190",
+            "Coordinates": [
+                "41.79168108500045,-71.40650603699964"
+            ],
+            "Address": "1280 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 6864",
+            "Coordinates": [
+                "41.786464572000455,-71.40205123899966"
+            ],
+            "Address": "1515 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "CUMBERLAND FARMS  1210",
+            "Coordinates": [
+                "41.791405873000485,-71.40627289299965"
+            ],
+            "Address": "1297 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Thurbers Avenue Services Inc",
+            "Coordinates": [
+                "41.799353263000455,-71.40570589499964"
+            ],
+            "Address": "1025 Eddy St Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  4796",
+            "Coordinates": [
+                "41.79829089600048,-71.41468978699965"
+            ],
+            "Address": "960 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "HARBOR SHELL FOOD MART",
+            "Coordinates": [
+                "41.78586011200048,-71.39494080899965"
+            ],
+            "Address": "1020 Narragansett Blvd Providence, RI "
+        },
+        {
+            "Store Name": "CVS Pharmacy  827",
+            "Coordinates": [
+                "41.829953170000465,-71.40082934099962"
+            ],
+            "Address": "291 Thayer St Providence, RI "
+        },
+        {
+            "Store Name": "CUMBERLAND FARMS  1280",
+            "Coordinates": [
+                "41.84701852000046,-71.39595080399965"
+            ],
+            "Address": "751 Hope St Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  1294",
+            "Coordinates": [
+                "41.83005534400047,-71.38841387999963"
+            ],
+            "Address": "481 Angell St Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  729",
+            "Coordinates": [
+                "41.84881026000045,-71.39508909999967"
+            ],
+            "Address": "799 Hope St Providence, RI "
+        },
+        {
+            "Store Name": "Rite Aid 10251",
+            "Coordinates": [
+                "41.82676971300049,-71.38757787499964"
+            ],
+            "Address": "135 Pitman St Providence, RI "
+        },
+        {
+            "Store Name": "Gulf Express",
+            "Coordinates": [
+                "41.78970625800048,-71.42953551999966"
+            ],
+            "Address": "255 Reservoir Ave Providence, RI "
+        },
+        {
+            "Store Name": "V Mart LLC",
+            "Coordinates": [
+                "41.7887259740005,-71.42353278999963"
+            ],
+            "Address": "176 Narragansett Ave Providence, RI "
+        },
+        {
+            "Store Name": "City Gas",
+            "Coordinates": [
+                "41.80580247100045,-71.42513118799963"
+            ],
+            "Address": "253 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "Ocean State Job Lot 109",
+            "Coordinates": [
+                "41.78813122300045,-71.43169282799965"
+            ],
+            "Address": "361 Reservoir Ave Providence, RI "
+        },
+        {
+            "Store Name": "Shabo Inc  DBA/ 7 Eleven (33413B) 33413B",
+            "Coordinates": [
+                "41.80340345100046,-71.43999664799964"
+            ],
+            "Address": "775 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Elmwood Avenue Shell",
+            "Coordinates": [
+                "41.81250762600047,-71.42231282799963"
+            ],
+            "Address": "5 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "7-Eleven 33413J",
+            "Coordinates": [
+                "41.80340345100046,-71.43999664799964"
+            ],
+            "Address": "775 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Rite Aid 10252",
+            "Coordinates": [
+                "41.8046345030005,-71.41944842199968"
+            ],
+            "Address": "711 BROAD STREET Providence, RI "
+        },
+        {
+            "Store Name": "WALGREENS 04145",
+            "Coordinates": [
+                "41.79772739000049,-71.42606267099967"
+            ],
+            "Address": "533 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "7-ELEVEN 29112G",
+            "Coordinates": [
+                "41.835484402000475,-71.42633834599962"
+            ],
+            "Address": "460 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "PriceRite 371",
+            "Coordinates": [
+                "41.82603751100049,-71.43880304899966"
+            ],
+            "Address": "325 Valley St Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 2868",
+            "Coordinates": [
+                "41.83228281400045,-71.44199058399965"
+            ],
+            "Address": "1030 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "Khout Gas",
+            "Coordinates": [
+                "41.83118152200046,-71.42890715299967"
+            ],
+            "Address": "691 Valley St Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 8177",
+            "Coordinates": [
+                "41.8361865870005,-71.42885293999967"
+            ],
+            "Address": "541 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "7-Eleven 27668L",
+            "Coordinates": [
+                "41.84087509300048,-71.42720095699963"
+            ],
+            "Address": "391 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "The Ampak DBA Tri & Tri States Enterprises Inc",
+            "Coordinates": [
+                "41.84411640400049,-71.42365854699966"
+            ],
+            "Address": "222 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "Capital Gulf",
+            "Coordinates": [
+                "41.832297335000476,-71.41812425499967"
+            ],
+            "Address": "201 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "WALGREENS  03204",
+            "Coordinates": [
+                "41.832916785000464,-71.44442976799962"
+            ],
+            "Address": "295 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Rite Aid 10253",
+            "Coordinates": [
+                "41.83033768000047,-71.44423923999966"
+            ],
+            "Address": "200 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "WALGREENS  03703",
+            "Coordinates": [
+                "41.8458349980005,-71.42797913999965"
+            ],
+            "Address": "354 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  856",
+            "Coordinates": [
+                "41.84616719900049,-71.42966580999962"
+            ],
+            "Address": "400 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "ATWELLS SHELL",
+            "Coordinates": [
+                "41.824917789000494,-71.43942656499962"
+            ],
+            "Address": "286 Valley St Providence, RI "
+        },
+        {
+            "Store Name": "PC MART & GAS",
+            "Coordinates": [
+                "41.841703435000454,-71.42750896699965"
+            ],
+            "Address": "408 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "DOLLAR TREE 1733",
+            "Coordinates": [
+                "41.81986190600048,-71.46884840499962"
+            ],
+            "Address": "377 Killingly St Providence, RI "
+        },
+        {
+            "Store Name": "Hess Express 39213",
+            "Coordinates": [
+                "41.82534071100048,-71.45459796899962"
+            ],
+            "Address": "442 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "Walgreens 11147",
+            "Coordinates": [
+                "41.81367837400046,-71.44806370199967"
+            ],
+            "Address": "1 Pocasset Ave Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 2020",
+            "Coordinates": [
+                "41.81915417500045,-71.46267052799965"
+            ],
+            "Address": "550 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Family Dollar 8896",
+            "Coordinates": [
+                "41.83396633700045,-71.46754635999963"
+            ],
+            "Address": "921 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "280, Llc",
+            "Coordinates": [
+                "41.81398378200049,-71.44759918699964"
+            ],
+            "Address": "280 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Grassos Olenyville Gulf",
+            "Coordinates": [
+                "41.81647426000046,-71.44429906799962"
+            ],
+            "Address": "35 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Tiger Plus LLC",
+            "Coordinates": [
+                "41.82353756800046,-71.45137154099967"
+            ],
+            "Address": "342 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  994",
+            "Coordinates": [
+                "41.81245000100046,-71.45024936099963"
+            ],
+            "Address": "131 Webster Ave Providence, RI "
+        },
+        {
+            "Store Name": "CVS PHARMACY  2417",
+            "Coordinates": [
+                "41.83386782200046,-71.46811510199967"
+            ],
+            "Address": "935 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "7-ELEVEN 33338-A",
+            "Coordinates": [
+                "41.82443442300047,-71.43532041899965"
+            ],
+            "Address": "548 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "7-ELEVEN #33426-A",
+            "Coordinates": [
+                "41.81805634800048,-71.44466450099964"
+            ],
+            "Address": "65 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "CVS Pharmacy  2049",
+            "Coordinates": [
+                "41.829196384000454,-71.41531283699965"
+            ],
+            "Address": "100 Francis St Providence, RI "
+        }
+    ],
+    "Grocery": [
+        {
+            "Store Name": "WALMART 3301",
+            "Coordinates": [
+                "41.84556212500047,-71.41765504399967"
+            ],
+            "Address": "51 Silver Spring St Providence, RI "
+        },
+        {
+            "Store Name": "SAVE-A-LOT 827",
+            "Coordinates": [
+                "41.85351723800045,-71.42821440699964"
+            ],
+            "Address": "700 Branch Ave Providence, RI "
+        },
+        {
+            "Store Name": "STOP & SHOP  725",
+            "Coordinates": [
+                "41.84607950300045,-71.41317872799965"
+            ],
+            "Address": "333 River St Providence, RI "
+        },
+        {
+            "Store Name": "WHOLE FOODS MARKET 10111",
+            "Coordinates": [
+                "41.83718274800049,-71.40945311799965"
+            ],
+            "Address": "601 Main St Providence, RI "
+        },
+        {
+            "Store Name": "EASTSIDE MARKETPLACE",
+            "Coordinates": [
+                "41.82678134700046,-71.38675856599963"
+            ],
+            "Address": "165 Pitman St Providence, RI "
+        },
+        {
+            "Store Name": "WHOLE FOODS MARKET 10014",
+            "Coordinates": [
+                "41.82809489800047,-71.38569601999967"
+            ],
+            "Address": "261 Waterman St Providence, RI "
+        },
+        {
+            "Store Name": "Compare Foods",
+            "Coordinates": [
+                "41.80037926300048,-71.41741226199963"
+            ],
+            "Address": "863 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Aldi 41",
+            "Coordinates": [
+                "41.8361930850005,-71.42875665799966"
+            ],
+            "Address": "539 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "Fertile Underground Grocery",
+            "Coordinates": [
+                "41.81608630900047,-71.43576591099963"
+            ],
+            "Address": "1577 Westminster St Providence, RI "
+        },
+        {
+            "Store Name": "STOP & SHOP 722",
+            "Coordinates": [
+                "41.83300898600049,-71.46489006899964"
+            ],
+            "Address": "850 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "SAVE-A-LOT 823",
+            "Coordinates": [
+                "41.82017164400048,-71.46902512099967"
+            ],
+            "Address": "405 Killingly St Providence, RI "
+        }
+    ],
+    "Specialty": [
+        {
+            "Store Name": "Antonelli Poultry Inc",
+            "Coordinates": [
+                "41.824066909000464,-71.42687496299965"
+            ],
+            "Address": "62 Depasquale Ave Providence, RI "
+        },
+        {
+            "Store Name": "Borrellis Bakery",
+            "Coordinates": [
+                "41.8583429410005,-71.42146214499962"
+            ],
+            "Address": "805 Charles St Providence, RI "
+        },
+        {
+            "Store Name": "Medina Meat Market Llc",
+            "Coordinates": [
+                "41.85131513200048,-71.44428184899965"
+            ],
+            "Address": "838 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "Soares Fish Market",
+            "Coordinates": [
+                "41.789628620000485,-71.39614229799963"
+            ],
+            "Address": "930 Narragansett Blvd Providence, RI "
+        },
+        {
+            "Store Name": "SILVER STAR BAKERY",
+            "Coordinates": [
+                "41.82244664800049,-71.39212377599966"
+            ],
+            "Address": "150 Ives St Providence, RI "
+        },
+        {
+            "Store Name": "TALHO & CARNICARIA CENTRAL MEAT M",
+            "Coordinates": [
+                "41.82226161700049,-71.38981835699963"
+            ],
+            "Address": "113 Gano St Providence, RI "
+        },
+        {
+            "Store Name": "LA GIGANTE MEAT MARKET INC",
+            "Coordinates": [
+                "41.81144555900045,-71.42302625399964"
+            ],
+            "Address": "49 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "Mi Quesqueya Meat Market",
+            "Coordinates": [
+                "41.79893078200047,-71.41561840399964"
+            ],
+            "Address": "933 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Pacific Seafood Market",
+            "Coordinates": [
+                "41.79003914100048,-71.42921807699963"
+            ],
+            "Address": "247 Reservoir Ave Providence, RI "
+        },
+        {
+            "Store Name": "Emely Party Store & Bakery LLC",
+            "Coordinates": [
+                "41.80875262100045,-71.42067490899967"
+            ],
+            "Address": "568 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Crugnale Bakery",
+            "Coordinates": [
+                "41.825275468000484,-71.43978324099965"
+            ],
+            "Address": "11 Newark St Providence, RI "
+        },
+        {
+            "Store Name": "LaSalle Bakery Inc",
+            "Coordinates": [
+                "41.84944397300046,-71.43939506899966"
+            ],
+            "Address": "685 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "SAL'S BAKERY",
+            "Coordinates": [
+                "41.832523076000484,-71.45147580099967"
+            ],
+            "Address": "1288 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "MARIO'S BAKERY",
+            "Coordinates": [
+                "41.84833167500045,-71.43167668799964"
+            ],
+            "Address": "684 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "LASALLE BAKERY",
+            "Coordinates": [
+                "41.842341544000476,-71.44442442599967"
+            ],
+            "Address": "993 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "ORIENTAL PLAZA INC.,",
+            "Coordinates": [
+                "41.83455405300049,-71.42388159899963"
+            ],
+            "Address": "373 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "Guatepan Bakery",
+            "Coordinates": [
+                "41.81850564700045,-71.44524757899967"
+            ],
+            "Address": "95 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "Las Delicias Bakery",
+            "Coordinates": [
+                "41.82510612900046,-71.44958536099966"
+            ],
+            "Address": "964B Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "GUATEMALA BAKERY",
+            "Coordinates": [
+                "41.8075806380005,-71.44490795599967"
+            ],
+            "Address": "241 Union Ave Providence, RI "
+        },
+        {
+            "Store Name": "MAYA BAKERY",
+            "Coordinates": [
+                "41.81990253400045,-71.44040143199965"
+            ],
+            "Address": "113 Valley St Providence, RI "
+        },
+        {
+            "Store Name": "PANADERIA EL QUETZAL",
+            "Coordinates": [
+                "41.81857457700045,-71.45850939299964"
+            ],
+            "Address": "445 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "SILVER LAKE SAUSAGE SHOP",
+            "Coordinates": [
+                "41.80801727700049,-71.45893871799967"
+            ],
+            "Address": "80 Ethan St Providence, RI "
+        }
+    ],
+    "Farmers' Market": [
+        {
+            "Store Name": "Fruit Hill Farmers Market",
+            "Coordinates": [
+                "ParkingLot"
+            ],
+            "Address": "Fruit Hill Ave  Providence, RI (41.823870669000485, -71.41199051099966)"
+        },
+        {
+            "Store Name": "Davis Park Farmers Market",
+            "Coordinates": [
+                "41.83612060600046,-71.41218617999965"
+            ],
+            "Address": "Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "Fruit Hill Farmers Market",
+            "Coordinates": [
+                "41.84270721100046,-71.45298120799964"
+            ],
+            "Address": "600 Mount Pleasant Avenue Providence, RI "
+        },
+        {
+            "Store Name": "Neutaconkanut Farmers Market",
+            "Coordinates": [
+                "41.81011750500045,-71.46239791199963"
+            ],
+            "Address": "760 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Broadway Farmers Market",
+            "Coordinates": [
+                "41.81801932600047,-71.43205796999968"
+            ],
+            "Address": "35 Marshall St Providence, RI "
+        }
+    ],
+    "Corner Store": [
+        {
+            "Store Name": "Downtown Market",
+            "Coordinates": [
+                "41.82596805300045,-71.40971812699962"
+            ],
+            "Address": "2 KENNEDY PLAZA Providence, RI "
+        },
+        {
+            "Store Name": "BROADWAY EXPRESS MART",
+            "Coordinates": [
+                "41.820158182000455,-71.42777829899967"
+            ],
+            "Address": "306 Broadway Providence, RI "
+        },
+        {
+            "Store Name": "Oasis Market",
+            "Coordinates": [
+                "41.81643811300046,-71.41901698999965"
+            ],
+            "Address": "220 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Regency Mart Inc",
+            "Coordinates": [
+                "41.821278373000496,-71.41732037899965"
+            ],
+            "Address": "3 Regency Plaza Providence, RI "
+        },
+        {
+            "Store Name": "O G Mart",
+            "Coordinates": [
+                "41.822886291000486,-71.41490800399964"
+            ],
+            "Address": "130 Washington St Providence, RI "
+        },
+        {
+            "Store Name": "Dugout Convenience Store III",
+            "Coordinates": [
+                "41.81606351100049,-71.41981829699967"
+            ],
+            "Address": "244 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Super Star Mini Mart",
+            "Coordinates": [
+                "41.82140743600047,-71.42270801899963"
+            ],
+            "Address": "163 Broadway Providence, RI "
+        },
+        {
+            "Store Name": "JW Market Inc",
+            "Coordinates": [
+                "41.8215295330005,-71.41284323499963"
+            ],
+            "Address": "187 Mathewson St Providence, RI "
+        },
+        {
+            "Store Name": "AEW Market Inc",
+            "Coordinates": [
+                "41.821309665000456,-71.41492037499967"
+            ],
+            "Address": "385 Westminster St Providence, RI "
+        },
+        {
+            "Store Name": "COLBEA ENTERPRISES LLC",
+            "Coordinates": [
+                "41.81878224600047,-71.40018847499965"
+            ],
+            "Address": "457 Benefit St Providence, RI "
+        },
+        {
+            "Store Name": "IOVINOS MARKET",
+            "Coordinates": [
+                "41.82138954900046,-71.42535395199963"
+            ],
+            "Address": "73 Kenyon St Providence, RI "
+        },
+        {
+            "Store Name": "A B Variety",
+            "Coordinates": [
+                "41.85193788100048,-71.42368074799964"
+            ],
+            "Address": "559 Branch Ave Providence, RI "
+        },
+        {
+            "Store Name": "Carcieri's Stop And Compare",
+            "Coordinates": [
+                "41.85121350100047,-71.42008503999966"
+            ],
+            "Address": "567 Charles St Providence, RI "
+        },
+        {
+            "Store Name": "Caribe Mini Market, Llc",
+            "Coordinates": [
+                "41.853235645000495,-71.42038591799962"
+            ],
+            "Address": "615 Charles St Providence, RI "
+        },
+        {
+            "Store Name": "FOODLAND FARMS",
+            "Coordinates": [
+                "41.85404015200049,-71.42057896199964"
+            ],
+            "Address": "638 Charles St Providence, RI "
+        },
+        {
+            "Store Name": "TOOFS MARKET",
+            "Coordinates": [
+                "41.8530097200005,-71.42034769699967"
+            ],
+            "Address": "611 Charles St Providence, RI "
+        },
+        {
+            "Store Name": "EL BOMBAZO MARKET INC.",
+            "Coordinates": [
+                "41.79783827400047,-71.41420932999966"
+            ],
+            "Address": "981 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Dugout Convenience Store",
+            "Coordinates": [
+                "41.80372562100047,-71.41176578099964"
+            ],
+            "Address": "97 Burnside St Providence, RI "
+        },
+        {
+            "Store Name": "Dugout Too Convenience Store",
+            "Coordinates": [
+                "41.79527131100048,-71.41039359299964"
+            ],
+            "Address": "692 Prairie Ave Providence, RI "
+        },
+        {
+            "Store Name": "EL VECINO GROCERY STORE",
+            "Coordinates": [
+                "41.79677920400047,-71.41292351299967"
+            ],
+            "Address": "1035 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Broad Market",
+            "Coordinates": [
+                "41.78991330800045,-71.40496194799965"
+            ],
+            "Address": "1361 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Charles Variety",
+            "Coordinates": [
+                "41.78958709300048,-71.40293441999967"
+            ],
+            "Address": "1308 Eddy St Providence, RI "
+        },
+        {
+            "Store Name": "New Stop Food Market 2",
+            "Coordinates": [
+                "41.79242299200047,-71.40743161699965"
+            ],
+            "Address": "1258 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Cibao Mini Market",
+            "Coordinates": [
+                "41.80173829200049,-71.41315494299965"
+            ],
+            "Address": "456 Prairie Ave Providence, RI "
+        },
+        {
+            "Store Name": "CRESPO GROCERY",
+            "Coordinates": [
+                "41.7951633080005,-71.41093710399963"
+            ],
+            "Address": "1115 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "El Fogonazo Market",
+            "Coordinates": [
+                "41.796058341000446,-71.41202340099966"
+            ],
+            "Address": "1059 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Family Convenience Grocery Store",
+            "Coordinates": [
+                "41.799931234000496,-71.41238327299965"
+            ],
+            "Address": "512 Prairie Ave Providence, RI "
+        },
+        {
+            "Store Name": "NUNEZ FRUIT MARKET",
+            "Coordinates": [
+                "41.787974043000474,-71.40333184799965"
+            ],
+            "Address": "1437 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "GALLUP MARKET",
+            "Coordinates": [
+                "41.799746936000474,-71.41378421799965"
+            ],
+            "Address": "160 Gallup St Providence, RI "
+        },
+        {
+            "Store Name": "PORTUGUESE AMERICAN MARKET",
+            "Coordinates": [
+                "41.79114492500048,-71.39664065499966"
+            ],
+            "Address": "896 Allens Ave Providence, RI "
+        },
+        {
+            "Store Name": "V&J DELI & GROCERY",
+            "Coordinates": [
+                "41.8067102280005,-71.40979232999968"
+            ],
+            "Address": "272 Public St Providence, RI "
+        },
+        {
+            "Store Name": "GOMEZ MARKET",
+            "Coordinates": [
+                "41.78759612100049,-71.40301596299963"
+            ],
+            "Address": "1459 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "NEW SHOP & GO",
+            "Coordinates": [
+                "41.830770317000486,-71.34731006399966"
+            ],
+            "Address": "97 Hope St Providence, RI "
+        },
+        {
+            "Store Name": "Eastside Mart",
+            "Coordinates": [
+                "41.83425948100046,-71.39055494399963"
+            ],
+            "Address": "422 Lloyd Ave Providence, RI "
+        },
+        {
+            "Store Name": "Your Corner Store",
+            "Coordinates": [
+                "41.838839056000495,-71.40408506299963"
+            ],
+            "Address": "110 Doyle Ave Providence, RI "
+        },
+        {
+            "Store Name": "Camp Street Market",
+            "Coordinates": [
+                "41.84221929300048,-71.40279485099967"
+            ],
+            "Address": "149 Camp St Providence, RI "
+        },
+        {
+            "Store Name": "EAST SIDE PRESCRIPTION CENTER INC",
+            "Coordinates": [
+                "41.84382510900048,-71.39760259499963"
+            ],
+            "Address": "632 Hope St Providence, RI "
+        },
+        {
+            "Store Name": "GANO MART",
+            "Coordinates": [
+                "41.82371377600049,-71.39003657799964"
+            ],
+            "Address": "149 Gano St Providence, RI "
+        },
+        {
+            "Store Name": "EAGLE SUPER MARKET",
+            "Coordinates": [
+                "41.82144106900046,-71.39192615599967"
+            ],
+            "Address": "117 Ives St Providence, RI "
+        },
+        {
+            "Store Name": "EAST SIDE MINI MART",
+            "Coordinates": [
+                "41.82371134200048,-71.39884395499962"
+            ],
+            "Address": "252 Brook St Providence, RI "
+        },
+        {
+            "Store Name": "FARAFINA",
+            "Coordinates": [
+                "41.80490633800048,-71.43727746599967"
+            ],
+            "Address": "845 Potters Ave Providence, RI "
+        },
+        {
+            "Store Name": "CRANSTON VARIETY STORE",
+            "Coordinates": [
+                "41.81285140900047,-71.42906952699963"
+            ],
+            "Address": "306 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "SANCHEZ MARKET",
+            "Coordinates": [
+                "41.80566897600045,-71.41970517799967"
+            ],
+            "Address": "676 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "VILLAGE MARKET",
+            "Coordinates": [
+                "41.81411432600049,-71.42661055899964"
+            ],
+            "Address": "208 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Gemma's Market",
+            "Coordinates": [
+                "41.810507836000454,-71.43253388999966"
+            ],
+            "Address": "458 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Melissa Market",
+            "Coordinates": [
+                "41.80305292200046,-71.43218773399963"
+            ],
+            "Address": "680 Potters Ave Providence, RI "
+        },
+        {
+            "Store Name": "H & M Discount Store",
+            "Coordinates": [
+                "41.80397813900049,-71.41916319999967"
+            ],
+            "Address": "736 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Corner Store",
+            "Coordinates": [
+                "41.80925627500045,-71.42089921699966"
+            ],
+            "Address": "549B Broad St Providence, RI "
+        },
+        {
+            "Store Name": "D & C MARKET",
+            "Coordinates": [
+                "41.804823549000446,-71.42532769199966"
+            ],
+            "Address": "290 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "Home Plate Market",
+            "Coordinates": [
+                "41.813405161000446,-71.41676878199962"
+            ],
+            "Address": "247 Lockwood St Providence, RI "
+        },
+        {
+            "Store Name": "Public Street Market",
+            "Coordinates": [
+                "41.80514172000045,-71.41653934699963"
+            ],
+            "Address": "454 Public St Providence, RI "
+        },
+        {
+            "Store Name": "Star Market",
+            "Coordinates": [
+                "41.814027919000466,-71.42132996499964"
+            ],
+            "Address": "334 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Los Compadres Market LLC",
+            "Coordinates": [
+                "41.810880771000484,-71.36680092099965"
+            ],
+            "Address": "93 Laura St Providence, RI "
+        },
+        {
+            "Store Name": "Elmwood Deluxe Mart Inc",
+            "Coordinates": [
+                "41.79541620200047,-71.42471176599963"
+            ],
+            "Address": "610A Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "624 Cranston Meat Market Inc",
+            "Coordinates": [
+                "41.80674962600045,-71.43590048799967"
+            ],
+            "Address": "624 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Dima Mini Mart",
+            "Coordinates": [
+                "41.81188179300045,-71.42272731299965"
+            ],
+            "Address": "29B Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "Ebc Market",
+            "Coordinates": [
+                "41.81251367300047,-71.41957027199965"
+            ],
+            "Address": "465 Pine St Providence, RI "
+        },
+        {
+            "Store Name": "Quality Meats And Deli",
+            "Coordinates": [
+                "41.80825283000047,-71.42059096199966"
+            ],
+            "Address": "583 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Ma Esther Enterprise",
+            "Coordinates": [
+                "41.804591609000454,-71.43832704999966"
+            ],
+            "Address": "739 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Daves Convenience Inc",
+            "Coordinates": [
+                "41.80892091700048,-71.42453452699965"
+            ],
+            "Address": "150B Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "S S International Meat and Groceries LLC",
+            "Coordinates": [
+                "41.80569797300046,-71.43689997399963"
+            ],
+            "Address": "676 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "Providence City Convenience & Deli",
+            "Coordinates": [
+                "41.81453917100049,-71.42106157299963"
+            ],
+            "Address": "312 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "Explosion Market",
+            "Coordinates": [
+                "41.80967566100048,-71.42822693099964"
+            ],
+            "Address": "248 Dexter St Providence, RI "
+        },
+        {
+            "Store Name": "PROVIDENCE MARKET",
+            "Coordinates": [
+                "41.803369585000496,-71.41904236899967"
+            ],
+            "Address": "757 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "MEKONG MARKET",
+            "Coordinates": [
+                "41.81450235700049,-71.42108048399967"
+            ],
+            "Address": "314 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "TENARES SUPERMARKET, INC",
+            "Coordinates": [
+                "41.80986936400046,-71.43318834099966"
+            ],
+            "Address": "484 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "SUNNY MARKET PLACE",
+            "Coordinates": [
+                "41.79013340500046,-71.42914081199967"
+            ],
+            "Address": "243 Reservoir Ave Providence, RI "
+        },
+        {
+            "Store Name": "JAMAL & JAMEL VARIETY STORE",
+            "Coordinates": [
+                "41.80439427900046,-71.43845253799964"
+            ],
+            "Address": "750 CRANSTON ST Providence, RI "
+        },
+        {
+            "Store Name": "ELMWOOD FOOD MARKET",
+            "Coordinates": [
+                "41.80284359300049,-71.42588472499966"
+            ],
+            "Address": "342 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "SAVERS MART II 2",
+            "Coordinates": [
+                "41.78888109000047,-71.42116938299966"
+            ],
+            "Address": "871 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "STOP MARKET AND ASSOCIATES",
+            "Coordinates": [
+                "41.812829284000486,-71.42911254699965"
+            ],
+            "Address": "308 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "CRANSTON FOOD CENTER, INC.",
+            "Coordinates": [
+                "41.80825092900045,-71.43458463099967"
+            ],
+            "Address": "560 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "ASIAN STAR MARKET, INC.",
+            "Coordinates": [
+                "41.793639105000466,-71.42372215799963"
+            ],
+            "Address": "678 Elmwood Ave Providence, RI "
+        },
+        {
+            "Store Name": "Reyes Food Market",
+            "Coordinates": [
+                "41.8052503240005,-71.43756490899966"
+            ],
+            "Address": "701 Cranston St Providence, RI "
+        },
+        {
+            "Store Name": "TAN'S NEW ASIAN MARKET",
+            "Coordinates": [
+                "41.81400980100045,-71.42141911399966"
+            ],
+            "Address": "339 Broad St Providence, RI "
+        },
+        {
+            "Store Name": "CHRISTINA MARKET",
+            "Coordinates": [
+                "41.836137617000475,-71.42806577599964"
+            ],
+            "Address": "524 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "RIVER AVE B & M FOOD MART",
+            "Coordinates": [
+                "41.83214460700049,-71.43824241699963"
+            ],
+            "Address": "168 River Ave Providence, RI "
+        },
+        {
+            "Store Name": "GIO'S MARKET",
+            "Coordinates": [
+                "41.83547780800046,-71.42480877599962"
+            ],
+            "Address": "537 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "CARLITOS MARKET INC",
+            "Coordinates": [
+                "41.83568530800045,-71.42245158199967"
+            ],
+            "Address": "35 Candace St Providence, RI "
+        },
+        {
+            "Store Name": "Kevin Food Market",
+            "Coordinates": [
+                "41.82749493600045,-71.44370385499963"
+            ],
+            "Address": "103 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Antillas Supermarket #4",
+            "Coordinates": [
+                "41.8372679200005,-71.42257698599963"
+            ],
+            "Address": "194 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "221 Academy Ave Meat Market",
+            "Coordinates": [
+                "41.830732584000486,-71.44422792499967"
+            ],
+            "Address": "221 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Sunrise Market",
+            "Coordinates": [
+                "41.846098991000474,-71.45189039899964"
+            ],
+            "Address": "1222 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "St Francis D Assisi Convenience",
+            "Coordinates": [
+                "41.826994769000464,-71.44370174099964"
+            ],
+            "Address": "84 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Del Rosario Mini Market",
+            "Coordinates": [
+                "41.8342975650005,-71.42993627599964"
+            ],
+            "Address": "693 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "GI JOE'S VARIETY",
+            "Coordinates": [
+                "41.83536954500045,-71.42590528599965"
+            ],
+            "Address": "445 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "Camden Mini Market",
+            "Coordinates": [
+                "41.83902465900047,-71.42670175699965"
+            ],
+            "Address": "135 Camden Ave Providence, RI "
+        },
+        {
+            "Store Name": "Stop & Go",
+            "Coordinates": [
+                "41.850358748000474,-71.43398426199963"
+            ],
+            "Address": "776 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "College Convenience Mart",
+            "Coordinates": [
+                "41.84914404800048,-71.43881004599967"
+            ],
+            "Address": "664 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "Sikay Lao Thai Market",
+            "Coordinates": [
+                "41.83250943100046,-71.43882607799964"
+            ],
+            "Address": "952 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "El Pulgarcito Grocery Convenience Store",
+            "Coordinates": [
+                "41.828188713000486,-71.44389173399964"
+            ],
+            "Address": "128 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Los Mina Market",
+            "Coordinates": [
+                "41.82965086100046,-71.43870479899965"
+            ],
+            "Address": "100 Harold St Providence, RI "
+        },
+        {
+            "Store Name": "City Stop Inc",
+            "Coordinates": [
+                "41.78490026100047,-71.39893000999967"
+            ],
+            "Address": "316 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "P-Town Market",
+            "Coordinates": [
+                "41.84148388900047,-71.42247424199962"
+            ],
+            "Address": "288 Chad Brown St Providence, RI "
+        },
+        {
+            "Store Name": "Milanos Pizza/Olives Deli",
+            "Coordinates": [
+                "41.83742858700049,-71.43306014999962"
+            ],
+            "Address": "659 Smith St Providence, RI "
+        },
+        {
+            "Store Name": "Rite Price Market",
+            "Coordinates": [
+                "41.8353174450005,-71.41771276799966"
+            ],
+            "Address": "43 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "Douglas Food Mart",
+            "Coordinates": [
+                "41.83697630400047,-71.42171773899963"
+            ],
+            "Address": "175 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "La Poblanita Market",
+            "Coordinates": [
+                "41.83213544500046,-71.44445252499963"
+            ],
+            "Address": "273 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "Morenos Meat Market 1",
+            "Coordinates": [
+                "41.83513680200048,-71.42588023999963"
+            ],
+            "Address": "580 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "Chalkstone Mini Mart & Deli",
+            "Coordinates": [
+                "41.83291144800046,-71.43761793499965"
+            ],
+            "Address": "920 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "Chalkstone Supermarket Inc",
+            "Coordinates": [
+                "41.83229771100048,-71.44275623599964"
+            ],
+            "Address": "1050 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "Admiral Mart Inc",
+            "Coordinates": [
+                "41.848944522000465,-71.43817594499967"
+            ],
+            "Address": "649 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "Douglas Street Family Mart LLC",
+            "Coordinates": [
+                "41.85325677600048,-71.43780400199967"
+            ],
+            "Address": "929 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "A & B  CONVENIENCE & DELI",
+            "Coordinates": [
+                "41.83270400600048,-71.44995562299965"
+            ],
+            "Address": "1245 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "ACADEMY FARMS",
+            "Coordinates": [
+                "41.83921644200046,-71.44491238899963"
+            ],
+            "Address": "524 Academy Ave Providence, RI "
+        },
+        {
+            "Store Name": "BUS STOP MARKET",
+            "Coordinates": [
+                "41.84974936500049,-71.44030246199964"
+            ],
+            "Address": "712 Admiral St Providence, RI "
+        },
+        {
+            "Store Name": "Tienda Y Panaderia El Quiche LLC",
+            "Coordinates": [
+                "41.83232493000048,-71.44366127399962"
+            ],
+            "Address": "1076 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "HAWKINS MARKET",
+            "Coordinates": [
+                "41.848408486000494,-71.42595540699966"
+            ],
+            "Address": "103 Hawkins St Providence, RI "
+        },
+        {
+            "Store Name": "BROTHER'S MARKET",
+            "Coordinates": [
+                "41.8463688920005,-71.42939863599963"
+            ],
+            "Address": "600 Douglas Ave Providence, RI "
+        },
+        {
+            "Store Name": "SAM'S FOOD STORE 1033",
+            "Coordinates": [
+                "41.832325753000475,-71.45360233399964"
+            ],
+            "Address": "1348 Chalkstone Ave Providence, RI "
+        },
+        {
+            "Store Name": "BR MARKET",
+            "Coordinates": [
+                "41.82370138100049,-71.45159195699966"
+            ],
+            "Address": "352 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "WELCOME FOOD MART FOOD & SMOKE SHOP",
+            "Coordinates": [
+                "41.825361313000485,-71.45364882399963"
+            ],
+            "Address": "1081 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "SIME MARKET",
+            "Coordinates": [
+                "41.8204822830005,-71.44444728499963"
+            ],
+            "Address": "70 Appleton St Providence, RI "
+        },
+        {
+            "Store Name": "JUNIOR MINI MARKET",
+            "Coordinates": [
+                "41.80705664800047,-71.45660676599965"
+            ],
+            "Address": "294 Pocasset Ave Providence, RI "
+        },
+        {
+            "Store Name": "SAMS FOOD STORE",
+            "Coordinates": [
+                "41.8167757490005,-71.44415755499966"
+            ],
+            "Address": "28 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Espinal Grocery",
+            "Coordinates": [
+                "41.82499411700047,-71.44630394199964"
+            ],
+            "Address": "875 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "Friendship Market",
+            "Coordinates": [
+                "41.810252549000495,-71.43518269399965"
+            ],
+            "Address": "187 Messer St Providence, RI "
+        },
+        {
+            "Store Name": "Rodriguez Meat Market",
+            "Coordinates": [
+                "41.818229877000476,-71.45685306299964"
+            ],
+            "Address": "400 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Rockys Market",
+            "Coordinates": [
+                "41.815278081000486,-71.43688805599965"
+            ],
+            "Address": "19 Messer St Providence, RI "
+        },
+        {
+            "Store Name": "La Gran Via",
+            "Coordinates": [
+                "41.81842517000047,-71.45758201099966"
+            ],
+            "Address": "417 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Fernandez Market",
+            "Coordinates": [
+                "41.81347294700049,-71.45364145299965"
+            ],
+            "Address": "455 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Broadway Mart",
+            "Coordinates": [
+                "41.81902586500047,-71.43281079099967"
+            ],
+            "Address": "447 Broadway Providence, RI "
+        },
+        {
+            "Store Name": "Plainfield Meat Market",
+            "Coordinates": [
+                "41.81265738900049,-71.45887326399964"
+            ],
+            "Address": "600 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "A & E CONVENIENCE STORE",
+            "Coordinates": [
+                "41.8253171880005,-71.45408616099962"
+            ],
+            "Address": "1119 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "Mateo Market LLC",
+            "Coordinates": [
+                "41.81098277600046,-71.44751392999967"
+            ],
+            "Address": "3 Priscilla Ave Providence, RI "
+        },
+        {
+            "Store Name": "La Perla Fruit-Meat Market",
+            "Coordinates": [
+                "41.81618311700049,-71.43503962899968"
+            ],
+            "Address": "1543 Westminster St Providence, RI "
+        },
+        {
+            "Store Name": "Hudson Street Delicatessen",
+            "Coordinates": [
+                "41.813195814000494,-71.43464481999968"
+            ],
+            "Address": "68 Hudson St Providence, RI "
+        },
+        {
+            "Store Name": "Plainfield Market Place",
+            "Coordinates": [
+                "41.813677045000475,-71.45045630099963"
+            ],
+            "Address": "370 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Miami Mart Inc",
+            "Coordinates": [
+                "41.82510117300046,-71.44849585399965"
+            ],
+            "Address": "935 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "Anthony Grocery Store",
+            "Coordinates": [
+                "41.82510612900046,-71.44958536099966"
+            ],
+            "Address": "964A Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "SP Varieties Inc",
+            "Coordinates": [
+                "41.818628771000476,-71.45885736199966"
+            ],
+            "Address": "451 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Station One",
+            "Coordinates": [
+                "41.82593526500045,-71.45801762299965"
+            ],
+            "Address": "524 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "Jacobos Market",
+            "Coordinates": [
+                "41.81387033700048,-71.43640717799963"
+            ],
+            "Address": "75 Messer St Providence, RI "
+        },
+        {
+            "Store Name": "Diana Market",
+            "Coordinates": [
+                "41.82167180100049,-71.43099619899965"
+            ],
+            "Address": "115 Knight St Providence, RI "
+        },
+        {
+            "Store Name": "Westminster Market Inc",
+            "Coordinates": [
+                "41.81698646600046,-71.42827873299967"
+            ],
+            "Address": "1181 Westminster St Providence, RI "
+        },
+        {
+            "Store Name": "Hartford Convenience",
+            "Coordinates": [
+                "41.81782395400046,-71.45478099699966"
+            ],
+            "Address": "344 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "E Z Food Mart",
+            "Coordinates": [
+                "41.818858014000455,-71.46044145999963"
+            ],
+            "Address": "501 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Sams Food Store",
+            "Coordinates": [
+                "41.83326468200045,-71.46979284399964"
+            ],
+            "Address": "983 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "International Express Market",
+            "Coordinates": [
+                "41.807943056000454,-71.44810268099963"
+            ],
+            "Address": "243B Webster Ave Providence, RI "
+        },
+        {
+            "Store Name": "Shop And Go Food Market",
+            "Coordinates": [
+                "41.80782034300046,-71.44377239399967"
+            ],
+            "Address": "216 Union Ave Providence, RI "
+        },
+        {
+            "Store Name": "Julian Market",
+            "Coordinates": [
+                "41.82186762900045,-71.44504456799967"
+            ],
+            "Address": "100 Julian St Providence, RI "
+        },
+        {
+            "Store Name": "People Helping People Variety Store",
+            "Coordinates": [
+                "41.81366391500046,-71.45154609399964"
+            ],
+            "Address": "403 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "El Encanto Market Inc",
+            "Coordinates": [
+                "41.81320013800047,-71.45551935099962"
+            ],
+            "Address": "508 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "La Guira Meat Market Inc",
+            "Coordinates": [
+                "41.819008460000475,-71.46135118499967"
+            ],
+            "Address": "531 Hartford Ave Providence, RI "
+        },
+        {
+            "Store Name": "Nathalie Enterprise Llc",
+            "Coordinates": [
+                "41.81285661600049,-71.45774402199964"
+            ],
+            "Address": "574 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Yaneth Enterprise Llc",
+            "Coordinates": [
+                "41.8098319610005,-71.45467157399963"
+            ],
+            "Address": "196 Pocasset Ave Providence, RI "
+        },
+        {
+            "Store Name": "J & M Convenience Store",
+            "Coordinates": [
+                "41.8111027490005,-71.46198094799962"
+            ],
+            "Address": "718 Plainfield St Providence, RI "
+        },
+        {
+            "Store Name": "Honeys Market",
+            "Coordinates": [
+                "41.812057438000465,-71.44702132099962"
+            ],
+            "Address": "49 Bancroft St Providence, RI "
+        },
+        {
+            "Store Name": "J J Market",
+            "Coordinates": [
+                "41.80796467100049,-71.45605114799963"
+            ],
+            "Address": "261 Pocasset Ave Providence, RI "
+        },
+        {
+            "Store Name": "RI Market",
+            "Coordinates": [
+                "41.82297243800048,-71.45050210799963"
+            ],
+            "Address": "315 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "Manton Mini Mart",
+            "Coordinates": [
+                "41.826910427000485,-71.46067522999965"
+            ],
+            "Address": "600 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "Baron Market LLC",
+            "Coordinates": [
+                "41.859484076000456,-71.45081597099966"
+            ],
+            "Address": "77 Union Ave Providence, RI "
+        },
+        {
+            "Store Name": "Mana Market LLC",
+            "Coordinates": [
+                "41.8254615460005,-71.45503413299963"
+            ],
+            "Address": "457 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "Cibao Meat Supermarket LLC",
+            "Coordinates": [
+                "41.82117451500045,-71.44814061799963"
+            ],
+            "Address": "228 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "MORENO MARKET",
+            "Coordinates": [
+                "41.80729157200045,-71.43810114299964"
+            ],
+            "Address": "227 Waldo St Providence, RI "
+        },
+        {
+            "Store Name": "LA PLACITA",
+            "Coordinates": [
+                "41.82159817200045,-71.43406615299966"
+            ],
+            "Address": "165 Almy St Providence, RI "
+        },
+        {
+            "Store Name": "LA ESQUINA MARKET",
+            "Coordinates": [
+                "41.806983854000464,-71.44757843199966"
+            ],
+            "Address": "274 Webster Ave Providence, RI "
+        },
+        {
+            "Store Name": "El Primo Fruit Market",
+            "Coordinates": [
+                "41.82085863700047,-71.44773500599968"
+            ],
+            "Address": "212 Manton Ave Providence, RI "
+        },
+        {
+            "Store Name": "WEBSTER MEAT MARKET, INC.",
+            "Coordinates": [
+                "41.80780627600046,-71.44803722299963"
+            ],
+            "Address": "249 Webster Ave Providence, RI "
+        },
+        {
+            "Store Name": "JOANNA MARKET INC",
+            "Coordinates": [
+                "41.8118730700005,-71.43829653099965"
+            ],
+            "Address": "172 Chapin Ave Providence, RI "
+        },
+        {
+            "Store Name": "SAMIES FOOD & SMOKE SHOP",
+            "Coordinates": [
+                "41.81241732500047,-71.44943823599965"
+            ],
+            "Address": "50 Pocasset Ave Providence, RI "
+        },
+        {
+            "Store Name": "FELITO FOOD MARKET INC",
+            "Coordinates": [
+                "41.80763809000047,-71.44446642599962"
+            ],
+            "Address": "230 Union Ave Providence, RI "
+        },
+        {
+            "Store Name": "FAMILY MARKET",
+            "Coordinates": [
+                "41.823523569000486,-71.44394810099965"
+            ],
+            "Address": "110 Putnam St Providence, RI "
+        },
+        {
+            "Store Name": "SANCHEZ MEXICAN MARKET",
+            "Coordinates": [
+                "41.8247830140005,-71.44346543999967"
+            ],
+            "Address": "802 Atwells Ave Providence, RI "
+        },
+        {
+            "Store Name": "Lupitas Market",
+            "Coordinates": [
+                "41.813415113000474,-71.44826160099967"
+            ],
+            "Address": "18 Pocasset Ave Providence, RI "
+        },
+        {
+            "Store Name": "JOES MEAT MARKET",
+            "Coordinates": [
+                "41.816653586000484,-71.43114780599967"
+            ],
+            "Address": "1337 Westminster St Providence, RI "
+        }
+    ]
+}
