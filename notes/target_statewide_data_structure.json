@@ -1,0 +1,52 @@
+
+
+{
+	"Providence" : [
+					{
+						"Store Name": "",
+						"Address" : "",
+						"Coords" : [],
+						"Zip Code" : "",
+						"County" : ""
+					},
+					{
+						"Store Name": "",
+						"Address" : "",
+						"Coords" : [],
+						"Zip Code" : "",
+						"County" : ""
+					}
+	],
+	"Cranston" : [
+					{
+						"Store Name": "",
+						"Address" : "",
+						"Coords" : [],
+						"Zip Code" : "",
+						"County" : ""
+					},
+					{
+						"Store Name": "",
+						"Address" : "",
+						"Coords" : [],
+						"Zip Code" : "",
+						"County" : ""
+					}
+	],
+	"Warwick" : [
+					{
+						"Store Name": "",
+						"Address" : "",
+						"Coords" : [],
+						"Zip Code" : "",
+						"County" : ""
+					},
+					{
+						"Store Name": "",
+						"Address" : "",
+						"Coords" : [],
+						"Zip Code" : "",
+						"County" : ""
+					}
+	]
+}

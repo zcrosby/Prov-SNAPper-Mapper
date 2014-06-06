@@ -20,8 +20,8 @@ def parse_csv(raw_csv, delimiter):
 	store_type = {}
 
 	for row in csv_data:
-		addr = row[2]
-		formatted_items = split_addr_from_coords(addr)
+
+		formatted_items = split_addr_from_coords(row[2])
 
 		#make sure the store type doesn't get repeated
 		if row[3] not in store_type:
