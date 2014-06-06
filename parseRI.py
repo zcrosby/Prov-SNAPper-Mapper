@@ -12,7 +12,7 @@ def parse_csv(raw_csv, delimiter):
 	#read the file
 	data = csv.reader(opened_file, delimiter=delimiter)
 
-	#skip first line, which is the column names
+	#skip first line, which are the column names
 	column_names = data.next()
 
 	#create a dict to order stores by city

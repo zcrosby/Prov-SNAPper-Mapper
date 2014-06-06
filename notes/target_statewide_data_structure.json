@@ -1,4 +1,15 @@
-
+{
+	"row[0]": "MAIN ST MARKET", 
+	"row[1]": "-71.399178 longitude", 
+	"row[2]": "41.866417 latitude", 
+	"row[3]": "919 Main St", 
+	"row[4]": "", 
+	"row[5]": "Pawtucket", 
+	"row[6]": "RI", 
+	"row[7]": "02860", 
+	"row[8]": "4917", 
+	"row[9]": "PROVIDENCE "
+}
 
 {
 	"Providence" : [
@@ -6,14 +17,12 @@
 						"Store Name": "",
 						"Address" : "",
 						"Coords" : [],
-						"Zip Code" : "",
 						"County" : ""
 					},
 					{
 						"Store Name": "",
 						"Address" : "",
 						"Coords" : [],
-						"Zip Code" : "",
 						"County" : ""
 					}
 	],
@@ -22,14 +31,12 @@
 						"Store Name": "",
 						"Address" : "",
 						"Coords" : [],
-						"Zip Code" : "",
 						"County" : ""
 					},
 					{
 						"Store Name": "",
 						"Address" : "",
 						"Coords" : [],
-						"Zip Code" : "",
 						"County" : ""
 					}
 	],
@@ -38,14 +45,12 @@
 						"Store Name": "",
 						"Address" : "",
 						"Coords" : [],
-						"Zip Code" : "",
 						"County" : ""
 					},
 					{
 						"Store Name": "",
 						"Address" : "",
 						"Coords" : [],
-						"Zip Code" : "",
 						"County" : ""
 					}
 	]
