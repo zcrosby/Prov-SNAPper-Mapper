@@ -1,0 +1,4 @@
+http://www.designingmapinterfaces.com/patterns/
+https://developers.google.com/maps/tutorials/customizing/styling-the-base-map
+https://developers.google.com/maps/documentation/javascript/tutorial
+http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html

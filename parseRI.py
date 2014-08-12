@@ -1,6 +1,7 @@
 import csv 
 import json
 import re
+from os import path, remove
 
 RAW_CSV = "data/RI_Statewide_Vendors.csv"
 
@@ -26,14 +27,16 @@ def parse_csv(raw_csv, delimiter):
 		#format address
 		formatted_address = row[3] + ". " +  row[5] + " " + row[6] + " " + row[7] + "-" + row[8]
 
-		#format coords, put coords in a list 
-		formatted_coords = [ row[2] , row[1] ]
+		#format coords, put coords in a list
+		lat = float(row[2])
+		long = float(row[1])
+		coords = [lat , long] #[41.828739, -71.472778]
 
 		#create a data stucture to place store info into
 		store_info = {
 						"Store Name": row[0].title(),
 						"Address" : formatted_address,
-						"Coords" : formatted_coords,
+						"Coords" : coords,
 						"County" : row[9].title()
 					}
 
@@ -44,9 +47,14 @@ def parse_csv(raw_csv, delimiter):
 
 def main():
 	#parse_csv(RAW_CSV, ",")
+
 	d = parse_csv(RAW_CSV, ",")
-	with open("Statewide_Vendors.json", "w") as f:
-		f.write(json.dumps(d))
+
+	if path.isfile("Statewide_Vendors.json"):
+		remove("Statewide_Vendors.json")
+	else:
+		with open("Statewide_Vendors.json", "w") as f:
+			f.write(json.dumps(d))
 
 if __name__ == "__main__":
     main()

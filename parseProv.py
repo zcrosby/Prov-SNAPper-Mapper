@@ -55,7 +55,7 @@ def split_addr_from_coords(address):
 	cleaned_address = address_with_coords.replace(str(unformatted_coords[0]), "")
 	cleaned_address = cleaned_address.replace("\n", " ")
 
-	#remove parentheses and whitespace from coords and save coords to a variable
+	#remove parentheses and whitespace from coords 
 	cleaned_coords = re.sub(r"(\(|\)|\s)", "", unformatted_coords[0]).split()
 
 	formatted_items = {
