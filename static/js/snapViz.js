@@ -53,21 +53,53 @@ function setMap(){
 						  }
 	]);
 
-	getMarkers();
+	loadCoords(map);
 
 }
 
-function getMarkers(){
+function loadCoords(map){
 	var markerImg = 'static/images/storePointer.png';
 
 	$.getJSON('Statewide_Vendors.json', function(RI){
-		
-		console.log(RI);
-		
+
+		for(c in RI){
+			var city = RI[c];
+			var stores = city['stores'];
+
+			for(s in stores){
+				var store = stores[s];
+				var coords = store['Coords'];
+
+				addMarker(coords, map)
+			}
+		}
 
 	});
+}
 
 
+function addMarker(coords, map){
+	var Latlng = new google.maps.LatLng(coords[0],coords[1]);
+https://developers.google.com/maps/documentation/javascript/examples/icon-complex
+	var icon = {
+		url: 'static/images/shoppingCartBlack.png',
+		size: new google.maps.Size(40, 40),
+		//origin: new google.maps.Point(0,0),
+		//anchor: new google.maps.Point(0, 32)
+
+	};
+
+	var shape = {
+    	coords: [1, 1, 1, 20, 18, 20, 18 , 1],
+    	type: 'poly'
+  	};
+
+	var marker = new google.maps.Marker({
+		    position: Latlng,
+		    map: map,
+		    icon: icon,
+		    shape: shape
+		});
 }
 
 /* loads the map once the page has finished loading.*/
@@ -79,6 +111,3 @@ function injectGoogleMapAPIScript() {
 }
 
 window.onload = injectGoogleMapAPIScript;
-
-//for each store:
-	//create a marker based in its geo coords

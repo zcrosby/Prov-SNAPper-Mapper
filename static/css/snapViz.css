@@ -8,13 +8,8 @@ body {
 	padding: 0 
 }
 
-#map { 
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	top: 0px;
-	left: 0px;
-	border: 2px solid #e3e3e3;
+.easy-on-the-eye-grey{
+	color: #707070;
 }
 
 #menu{
@@ -25,4 +20,21 @@ body {
 	left: 0px;
 	border: 2px solid #e3e3e3;
 	background-color: #fff;
+}
+
+header{
+	padding: 10px 20px;
+}
+
+header h2{
+	color: #1b926c;
+}
+
+#map { 
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	border: 2px solid #e3e3e3;
 }
