@@ -1,4 +1,14 @@
-var stylingTypeOptions = [
+
+/*creates a maps based on custome map styles*/
+function setMap(){
+
+	var mapOptions = {
+  		zoom: 10,
+  		center: new google.maps.LatLng(41.70777, -71.73659)
+	};
+
+ 	var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+ 	map.set('styles', [
 						  {
 						    "featureType": "landscape.natural.terrain",
 						    "elementType": "labels.text.fill",
@@ -40,20 +50,24 @@ var stylingTypeOptions = [
 						      { "saturation": 11 },
 						      { "visibility": "simplified" }
 						    ]
-						  },{
 						  }
-						]
+	]);
 
-/*creates a maps based on custome map styles*/
-function setMap() {
-	var mapOptions = {
-  		zoom: 10,
-  		center: new google.maps.LatLng(41.70777, -71.73659)
-	};
+	getMarkers();
 
- 	var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+}
 
- 	//var mapStyles = new google.maps.StyledMapType(stylingTypeOptions)
+function getMarkers(){
+	var markerImg = 'static/images/storePointer.png';
+
+	$.getJSON('Statewide_Vendors.json', function(RI){
+		
+		console.log(RI);
+		
+
+	});
+
+
 }
 
 /* loads the map once the page has finished loading.*/
@@ -66,3 +80,5 @@ function injectGoogleMapAPIScript() {
 
 window.onload = injectGoogleMapAPIScript;
 
+//for each store:
+	//create a marker based in its geo coords
