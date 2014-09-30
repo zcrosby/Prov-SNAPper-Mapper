@@ -1,1 +1,4 @@
 ri_parse.sh
+static/.DS_Store
+.DS_Store
+/bower_components/
